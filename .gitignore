@@ -1,0 +1,25 @@
+.DS_Store
+
+# Virtual environment
+venv/
+
+__pycache__/
+
+
+# Datasets
+*.csv
+
+# Logs
+*.log
+
+# ML models
+*.safetensors
+*.pkl
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Streamlit secrets
+frontend/.streamlit/secrets.toml
