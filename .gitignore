@@ -5,7 +5,7 @@ venv/
 
 __pycache__/
 
-
+*.pyc
 # Datasets
 *.csv
 
