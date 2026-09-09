@@ -433,4 +433,6 @@ These notebooks are not required to run the application and serve as experimenta
 
 ## License
 
-This project does not declare a repository license file in the workspace. Please check with the repository owner before production reuse or redistribution.
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
