@@ -1,6 +1,5 @@
-# ATS Resume Scorer
 
-## 🚀 ATS Resume Scorer
+## ATS Resume Scorer
 
 An AI-powered resume analysis platform that evaluates resumes against job descriptions using NLP, semantic similarity, ATS scoring, and LLM-generated recommendations.
 
